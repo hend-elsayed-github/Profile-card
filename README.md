@@ -1,2 +1,2 @@
-This is a simple profile card using html, css and javascript.
+This is a simple profile card.
 
